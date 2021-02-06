@@ -11,3 +11,7 @@
 ## Week 3
 
 - Practical Notebook: [Instance-Based Learning](https://github.com/aldolipani/CEGE0004/blob/master/3%20-%20Week/instance-based_learning.ipynb)
+
+## Week 4
+
+- Practical Notebook: [Bayesian Learning](https://github.com/aldolipani/CEGE0004/blob/master/4%20-%20Week/bayesian_learning.ipynb)
