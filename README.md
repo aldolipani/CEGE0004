@@ -15,3 +15,7 @@
 ## Week 4
 
 - Practical Notebook: [Bayesian Learning](https://github.com/aldolipani/CEGE0004/blob/master/4%20-%20Week/bayesian_learning.ipynb)
+
+## Week 5
+
+- Practical Notebook: [Bayesian Learning](https://github.com/aldolipani/CEGE0004/blob/master/5%20-%20Week/neural_networks.ipynb)
