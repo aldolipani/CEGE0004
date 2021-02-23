@@ -22,4 +22,4 @@
 
 ## Week 6
 
-- Practical Notebook: [Model Ensembles](https://github.com/aldolipani/CEGE0004/blob/master/5%20-%20Week/model_ensembles.ipynb)
+- Practical Notebook: [Model Ensembles](https://github.com/aldolipani/CEGE0004/blob/master/6%20-%20Week/model_ensembles.ipynb)
