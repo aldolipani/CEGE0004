@@ -19,3 +19,7 @@
 ## Week 5
 
 - Practical Notebook: [Bayesian Learning](https://github.com/aldolipani/CEGE0004/blob/master/5%20-%20Week/neural_networks.ipynb)
+
+## Week 6
+
+- Practical Notebook: [Model Ensembles](https://github.com/aldolipani/CEGE0004/blob/master/5%20-%20Week/model_ensembles.ipynb)
