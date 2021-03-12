@@ -23,3 +23,7 @@
 ## Week 6
 
 - Practical Notebook: [Model Ensembles](https://github.com/aldolipani/CEGE0004/blob/master/6%20-%20Week/model_ensembles.ipynb)
+
+## Week 8
+
+- Practical Notebook: [Reinforcement Learning](https://github.com/aldolipani/CEGE0004/blob/master/8%20-%20Week/reinforcement_learning.ipynb)
