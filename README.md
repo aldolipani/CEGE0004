@@ -27,3 +27,7 @@
 ## Week 8
 
 - Practical Notebook: [Reinforcement Learning](https://github.com/aldolipani/CEGE0004/blob/master/8%20-%20Week/reinforcement_learning.ipynb)
+
+## Week 9
+
+- Practical Notebook: [Unsupervised Learning](https://github.com/aldolipani/CEGE0004/blob/master/9%20-%20Week/unsupervised_learning.ipynb)
