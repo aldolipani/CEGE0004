@@ -27,3 +27,5 @@ LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner. "Gradient-based l
 Cutler, A., Cutler, D.R. and Stevens, J.R., 2012. Random forests. Ensemble machine learning: Methods and applications, pp.157-175.
 
 Ren, Xudie, Haonan Guo, Shenghong Li, Shilin Wang, and Jianhua Li. "A novel image classification method with CNN-XGBoost model." In Digital Forensics and Watermarking: 16th International Workshop, IWDW 2017, Magdeburg, Germany, August 23-25, 2017, Proceedings 16, pp. 378-390. Springer International Publishing, 2017.
+
+Tang, Y. "Deep Learning using Linear Support Vector Machines." arXiv preprint arXiv:1306.0239 (2013).
