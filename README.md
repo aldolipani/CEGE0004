@@ -31,3 +31,7 @@
 ## Week 9
 
 - Practical Notebook: [Unsupervised Learning](https://github.com/aldolipani/CEGE0004/blob/master/9%20-%20Week/unsupervised_learning.ipynb)
+
+## Week 10
+
+- [Assignment Details](https://github.com/aldolipani/CEGE0004/blob/master/10%20-%20Week/README.md)
