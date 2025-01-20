@@ -1,4 +1,9 @@
-# Example of reproduced papers
+# Example of Reproducibility Papers
+
+Excellent examples of reproducibility papers accepted and presented at the European Conference for Information Retrieval (ECIR):
+- [Accepted papers 2024](https://www.ecir2024.org/accepted-papers/)
+
+# Previous Students' Submissions
 
 ## 2023-24
 
